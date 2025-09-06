@@ -19,40 +19,26 @@ Project scope includes deploying a Windows 10 VM in Azure, provisioning a new en
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the vm: <br/>
-<img src="https://i.imgur.com/RT0vDho.png" height="80%" width="80%" alt="Launching windows 10 VM"/>
+Launch The VM: <br/>
+<img src="https://i.imgur.com/RT0vDho.png" height="80%" width="80%" alt="Launching Windows 10 VM"/>
 <br />
 <br />
-Creating end-user:  <br/>
-<img src="https://imgur.com/a/o3p0VBT" height="80%" width="80%" alt="Creating end-user"/>
+Creating End-User:  <br/>
+<img src="https://i.imgur.com/ciAgWj3.png" height="80%" width="80%" alt="Creating End-User"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Submitting Ticket As End-User: <br/>
+<img src="https://i.imgur.com/nhR1bxp.png" height="80%" width="80%" alt="Submitting Help Ticket"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Locating Ticket Helpdesk Support:  <br/>
+<img src="https://i.imgur.com/jBTtwAi.png" height="80%" width="80%" alt="Locating Ticket"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Working and Resolving Ticket:  <br/>
+<img src="https://i.imgur.com/uLsJApU.png" height="80%" width="80%" alt="Working and Resolving Ticket"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+ <h2>What I learned doing this lab</h2>
+ <br />
+This lab presented a significant challenge primarily due to the need to configure osTicket from the ground up, with minimal prior exposure. It took several days to properly configure the system settings, email piping, and automation rules. However, creating end-user and helpdesk profiles and assigning appropriate access permissions became straightforward with continued practice. Overall, the lab provided valuable hands-on experience in virtual machine deployment and ticket lifecycle management.
